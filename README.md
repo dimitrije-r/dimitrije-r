@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimitrije</h1>
 <h3 align="center">A passionate web developer from Serbia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2cxd3RqZzYxeGF0bGRoeTVuODFneHByNmJ2YmM2emxvMzFmdjZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif"/>
+<img align="right" alt="React" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2cxd3RqZzYxeGF0bGRoeTVuODFneHByNmJ2YmM2emxvMzFmdjZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif"/>
 
 - 👨‍💻 All of my projects are available at [dimitrijerankov.netlify.app](dimitrijerankov.netlify.app)
 
