@@ -3,7 +3,7 @@
 
 <img align="right" alt="React" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2cxd3RqZzYxeGF0bGRoeTVuODFneHByNmJ2YmM2emxvMzFmdjZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif"/>
 
-- 👨‍💻 All of my projects are available at [dimitrijerankov.netlify.app](dimitrijerankov.netlify.app)
+- 👨‍💻 All of my projects are available at [dimitrijerankov.netlify.app](https://dimitrijerankov.netlify.app/)
 
 - 📫 How to reach me **dimitrije.rankov@outlook.com**
 
