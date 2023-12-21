@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [dimitrijerankov.netlify.app](https://dimitrijerankov.netlify.app/) or at the [repository tab](https://github.com/dimitrije-r?tab=repositories)
 
-- 📫 How to reach me **dimitrije.rankov@outlook.com**
+- 📫 Contact me at: [dimitrije.rankov@outlook.com](mailto:dimitrije.rankov@outlook.com)
 
 <h3 align="left">Currently learning:</h3>
 <p align="left">
