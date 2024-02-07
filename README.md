@@ -15,10 +15,12 @@
 </p>
 
 <h3 align="left">My favorite languages and tools:</h3>
-<p align="left">
+<div align="left">
+<div><i>Front-end:</i></div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/>
+<div><i>Back-end:</i></div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -31,5 +33,6 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
-</p>
+<div><i>Databases:</i></div>
+</div>
 
