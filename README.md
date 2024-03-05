@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dimitrije</h1>
 <h3 align="center">A passionate full-stack web developer from Belgrade, Serbia</h3>
 
-<img align="right" alt="React" width="400" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"/>
-
+<img align="right" alt="React" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR6emdqdzd0aDBrNDRzYzNxY3RwZzZzd3V4Zm5pd2ZhZmlhNDVyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif"/>
 - 👨‍💻 All of my projects are available at [dimitrijerankov.netlify.app](https://dimitrijerankov.netlify.app/) or at the [repository tab](https://github.com/dimitrije-r?tab=repositories)
 
 - 📫 Contact me at: [dimitrije.rankov@outlook.com](mailto:dimitrije.rankov@outlook.com)
 
 <h3 align="left">Currently learning:</h3>
 <p align="left">
+  
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="javaspringboot" width="40" height="40"/> 
 
 </p>
