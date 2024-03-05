@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full-stack web developer from Belgrade, Serbia</h3>
 
 <img align="right" alt="React" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR6emdqdzd0aDBrNDRzYzNxY3RwZzZzd3V4Zm5pd2ZhZmlhNDVyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif"/>
+
 - 👨‍💻 All of my projects are available at [dimitrijerankov.netlify.app](https://dimitrijerankov.netlify.app/) or at the [repository tab](https://github.com/dimitrije-r?tab=repositories)
 
 - 📫 Contact me at: [dimitrije.rankov@outlook.com](mailto:dimitrije.rankov@outlook.com)
