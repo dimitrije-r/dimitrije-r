@@ -11,6 +11,8 @@
 <p align="left">
   
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="javaspringboot" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="java spring" width="40" height="40"/>
+
 
 </p>
 
@@ -43,9 +45,13 @@
 <img src= "https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
 <div><i>Other:</i></div>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src= "https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
-<img src= "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> 
+<img src= "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellijidea" width="40" height="40"/>
+<img src= "https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="xampp" width="40" height="40"/>
+
+
 
 </div>
-
