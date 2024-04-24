@@ -10,9 +10,7 @@
 <h3 align="left">Currently learning:</h3>
 <p align="left">
   
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="javaspringboot" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="java spring" width="40" height="40"/>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 
 </p>
 
