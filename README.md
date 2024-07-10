@@ -49,7 +49,7 @@
 <img src= "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellijidea" width="40" height="40"/>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="xampp" width="40" height="40"/>
-
+<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="40" height="40"/>
 
 
 </div>
