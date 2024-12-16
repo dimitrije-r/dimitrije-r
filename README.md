@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimitrije</h1>
 <h3 align="center">A passionate full-stack web developer from Belgrade, Serbia</h3>
 
-<img align="right" alt="React" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGR6emdqdzd0aDBrNDRzYzNxY3RwZzZzd3V4Zm5pd2ZhZmlhNDVyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif"/>
+<img align="right" alt="C#" width="520" src="https://github.com/user-attachments/assets/05307e9f-9f0e-4595-9712-f7366376147c"/>
 
 - 👨‍💻 All of my projects are available at [dimitrijerankov.netlify.app](https://dimitrijerankov.netlify.app/) or at the [repository tab](https://github.com/dimitrije-r?tab=repositories)
 
