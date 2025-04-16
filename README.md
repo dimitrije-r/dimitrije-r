@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitrije</h1>
-<h3 align="center">A passionate full-stack web developer from Belgrade, Serbia</h3>
+<h3 align="center">A passionate full-stack .NET developer from Belgrade, Serbia</h3>
 
 <img align="right" alt="C#" width="520" src="https://github.com/user-attachments/assets/05307e9f-9f0e-4595-9712-f7366376147c"/>
 
