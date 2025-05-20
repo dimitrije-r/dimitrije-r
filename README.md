@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dimitrije</h1>
-<h3 align="center">A passionate full-stack .NET developer from Belgrade, Serbia</h3>
+<h3 align="center">A passionate full-stack <b>.NET</b> developer from Belgrade, Serbia</h3>
 
 <img align="right" alt="C#" width="520" src="https://github.com/user-attachments/assets/05307e9f-9f0e-4595-9712-f7366376147c"/>
 
-- 👨‍💻 All of my projects are available at [dimitrijerankov.netlify.app](https://dimitrijerankov.netlify.app/) or at the [repository tab](https://github.com/dimitrije-r?tab=repositories)
+- 👨‍💻 All of my projects are available at <b>[dimitrijerankov.netlify.app](https://dimitrijerankov.netlify.app/)</b> or at the <b>[repository tab](https://github.com/dimitrije-r?tab=repositories)</b>
 
-- 📫 Contact me at: [dimitrije.rankov@outlook.com](mailto:dimitrije.rankov@outlook.com)
+- 📫 Contact me at: <b>[dimitrije.rankov@outlook.com](mailto:dimitrije.rankov@outlook.com)</b>
 
-- 🖥️ Currently employed at [Data Tech International](https://dti.rs/)
+- 🖥️ Currently employed at <b>[Data Tech International](https://dti.rs/)</b>
+
+- 📚 Student at <b>Faculty of Organizational Sciences</b>, University of Belgrade
 
 <h3 align="left">Currently learning:</h3>
 <p align="left">
