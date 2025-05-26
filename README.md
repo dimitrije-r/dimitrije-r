@@ -9,7 +9,7 @@
 
 - 🖥️ Currently employed at <b>[Data Tech International](https://dti.rs/)</b>
 
-- 📚 Student at <b>Faculty of Organizational Sciences</b>, University of Belgrade
+- 📚 Student at <b>[Faculty of Organizational Sciences](https://fon.bg.ac.rs/)</b>, University of Belgrade
 
 <h3 align="left">Currently learning:</h3>
 <p align="left">
