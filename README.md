@@ -7,7 +7,7 @@
 
 - 📫 Contact me at: <b>[dimitrije.rankov@outlook.com](mailto:dimitrije.rankov@outlook.com)</b>
 
-- 🖥️ Currently employed at <b>[Data Tech International](https://dti.rs/)</b>
+- 🖥️ Currently employed at <b>[Data Tech International](https://dti.rs/)</b> as a software developer
 
 - 📚 Student at <b>[Faculty of Organizational Sciences](https://fon.bg.ac.rs/)</b>, University of Belgrade
 
