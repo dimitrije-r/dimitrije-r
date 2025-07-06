@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dimitrije</h1>
-<h3 align="center">A passionate full-stack .NET developer from Belgrade, Serbia</h3>
+<h3 align="center">A passionate full-stack web developer from Belgrade, Serbia</h3>
 
 <img align="right" alt="C#" width="520" src="https://github.com/user-attachments/assets/05307e9f-9f0e-4595-9712-f7366376147c"/>
 
 - 👨‍💻 All of my projects are available at <b>[dimitrijerankov.netlify.app](https://dimitrijerankov.netlify.app/)</b> or at the <b>[repository tab](https://github.com/dimitrije-r?tab=repositories)</b>
 
 - 📫 Contact me at: <b>[dimitrije.rankov@outlook.com](mailto:dimitrije.rankov@outlook.com)</b> or through <b>[repository tab](https://github.com/dimitrije-r?tab=repositories)</b>
-
-- 🖥️ Currently employed at <b>[Data Tech International](https://dti.rs/)</b> as a software developer
 
 - 📚 Student at <b>[Faculty of Organizational Sciences](https://fon.bg.ac.rs/)</b>, University of Belgrade
 
@@ -45,6 +43,7 @@
 
 <div><i>Enviroment:</i></div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="visual studio" width="45" height="40"/>
+<img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="visual studio code" width="45" height="40"/>
 <img src="https://images.icon-icons.com/2235/PNG/512/windows_os_logo_icon_134674.png" alt="windows" width="45" height="45"/> 
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
 
