@@ -9,10 +9,11 @@
 
 - 📚 Student at <b>[Faculty of Organizational Sciences](https://fon.bg.ac.rs/)</b>, University of Belgrade
 
-<h3 align="left">Currently learning:</h3>
+<h3 align="left">Currently improving:</h3>
 <p align="left">
   
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="dotnet" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
 </p>
 
