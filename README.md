@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at <b>[dimitrijerankov.netlify.app](https://dimitrijerankov.netlify.app/)</b> or at the <b>[repository tab](https://github.com/dimitrije-r?tab=repositories)</b>
 
-- 📫 Contact me at: <b>[dimitrije.rankov@outlook.com](mailto:dimitrije.rankov@outlook.com)</b> or through <b>[repository tab](https://github.com/dimitrije-r?tab=repositories)</b>
+- 📫 Contact me at: <b>[dimitrije.rankov@outlook.com](mailto:dimitrije.rankov@outlook.com)</b>
 
 - 📚 Student at <b>[Faculty of Organizational Sciences](https://fon.bg.ac.rs/)</b>, University of Belgrade
 
